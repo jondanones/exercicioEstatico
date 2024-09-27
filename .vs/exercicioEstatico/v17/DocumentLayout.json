@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOGICA\\source\\repos\\exercicioEstatico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1342855B-F326-4993-BD46-CA11631A8A76}|exercicioEstatico.csproj|c:\\users\\logica\\source\\repos\\exercicioestatico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1342855B-F326-4993-BD46-CA11631A8A76}|exercicioEstatico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1342855B-F326-4993-BD46-CA11631A8A76}|exercicioEstatico.csproj|c:\\users\\logica\\source\\repos\\exercicioestatico\\conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1342855B-F326-4993-BD46-CA11631A8A76}|exercicioEstatico.csproj|solutionrelative:conversordemoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorDeMoeda.cs",
+              "DocumentMoniker": "C:\\Users\\LOGICA\\source\\repos\\exercicioEstatico\\ConversorDeMoeda.cs",
+              "RelativeDocumentMoniker": "ConversorDeMoeda.cs",
+              "ToolTip": "C:\\Users\\LOGICA\\source\\repos\\exercicioEstatico\\ConversorDeMoeda.cs",
+              "RelativeToolTip": "ConversorDeMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:52:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOGICA\\source\\repos\\exercicioEstatico\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LOGICA\\source\\repos\\exercicioEstatico\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:52:39.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

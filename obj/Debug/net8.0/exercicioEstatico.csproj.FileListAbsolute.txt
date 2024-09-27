@@ -1,0 +1,14 @@
+C:\Users\LOGICA\source\repos\exercicioEstatico\bin\Debug\net8.0\exercicioEstatico.exe
+C:\Users\LOGICA\source\repos\exercicioEstatico\bin\Debug\net8.0\exercicioEstatico.deps.json
+C:\Users\LOGICA\source\repos\exercicioEstatico\bin\Debug\net8.0\exercicioEstatico.runtimeconfig.json
+C:\Users\LOGICA\source\repos\exercicioEstatico\bin\Debug\net8.0\exercicioEstatico.dll
+C:\Users\LOGICA\source\repos\exercicioEstatico\bin\Debug\net8.0\exercicioEstatico.pdb
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\exercicioEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\exercicioEstatico.AssemblyInfoInputs.cache
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\exercicioEstatico.AssemblyInfo.cs
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\exercicioEstatico.csproj.CoreCompileInputs.cache
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\exercicioEstatico.dll
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\refint\exercicioEstatico.dll
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\exercicioEstatico.pdb
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\exercicioEstatico.genruntimeconfig.cache
+C:\Users\LOGICA\source\repos\exercicioEstatico\obj\Debug\net8.0\ref\exercicioEstatico.dll
